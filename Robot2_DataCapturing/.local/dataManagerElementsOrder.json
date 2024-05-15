@@ -29,7 +29,10 @@
     {
       "Path": "DesktopDataCapturing.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "RowNumber&Sequence_1",
+        "CustomerData&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
