@@ -22449,15 +22449,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dhk93\\.nuget\\packages\\": {}
+    "C:\\Users\\kimdong\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Robot 7_Email Automation",
       "projectName": "Robot 7_Email Automation",
-      "projectPath": "C:\\Users\\dhk93\\OneDrive\\문서\\UiPath\\7Robots\\Robot 7_Email Automation\\.local",
-      "packagesPath": "C:\\Users\\dhk93\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dhk93\\OneDrive\\문서\\UiPath\\7Robots\\Robot 7_Email Automation\\.local"
+      "projectPath": "C:\\Users\\kimdong\\WebProject\\Uipath-7Robots\\Robot 7_Email Automation\\.local",
+      "packagesPath": "C:\\Users\\kimdong\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kimdong\\WebProject\\Uipath-7Robots\\Robot 7_Email Automation\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -22493,7 +22493,7 @@
             "version": "[24.4.1-preview, 24.4.1-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\dhk93\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\kimdong\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

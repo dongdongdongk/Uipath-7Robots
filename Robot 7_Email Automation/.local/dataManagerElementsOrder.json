@@ -12,9 +12,9 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "DateTimeInvoiceDate&Sequence_3",
-        "InvoiceDate&Sequence_3",
-        "InvoiceNumber&Sequence_3"
+        "OutputReport&Sequence_1",
+        "str_OutputReport&Sequence_8",
+        "EmailBody&Sequence_8"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
