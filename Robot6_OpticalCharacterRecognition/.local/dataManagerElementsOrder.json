@@ -12,6 +12,17 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "BotRunTime&Sequence_1",
+        "ExtractedSaleFormatted&Sequence_2",
+        "ListOfDouble&Sequence_2",
+        "ExtractedDateFormatted&Sequence_2",
+        "ExtractedDate&Sequence_2",
+        "ListOfDate&Sequence_2",
+        "ExtractedTrxID&Sequence_2",
+        "ExtractedRecriotIC&Sequence_2",
+        "EightAll&Sequence_2",
+        "OCRAPIKEY&Sequence_2",
+        "AllPDFText&Sequence_2",
         "ScrapedTotal&Sequence_3"
       ],
       "ArgumentsSectionElementsOrder": [],

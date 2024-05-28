@@ -1,12 +1,12 @@
 {
-  "name": "Robot6_OpticalCharacterRecognition",
-  "projectId": "9a138b64-28ba-46cf-9406-016bbd258090",
+  "name": "Robot 7_Email Automation",
+  "projectId": "9a40c4d6-7755-4b9b-bc00-7660a48a6064",
   "description": "빈 프로세스",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.3-preview]",
+    "UiPath.GSuite.Activities": "[2.6.21]",
     "UiPath.Mail.Activities": "[1.22.2]",
-    "UiPath.PDF.Activities": "[3.19.0]",
     "UiPath.System.Activities": "[24.3.1]",
     "UiPath.Testing.Activities": "[24.4.0-preview]",
     "UiPath.UIAutomation.Activities": "[24.4.1-preview]"
@@ -51,7 +51,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "59dd9ce7-1302-4e35-a36c-df7df866639c",
+      "uniqueId": "7e015010-6878-4548-9d2a-dc4d6c1d2a3b",
       "input": [],
       "output": []
     }
